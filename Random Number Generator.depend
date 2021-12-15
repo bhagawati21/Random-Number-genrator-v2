@@ -1,0 +1,75 @@
+# depslib dependency file v1.0
+1564923811 source:d:\c++ gui programs code blocks\random number generater\main.cpp
+	<windows.h>
+	"randnum.h"
+
+1564900024 d:\c++ gui programs code blocks\random number generater\include\randnum.h
+	<iostream>
+
+1564900366 source:d:\c++ gui programs code blocks\random number generater\src\randnum.cpp
+	"randnum.h"
+	<ctime>
+	<cstdlib>
+
+1564900366 source:d:\c++ gui programs code blocks\test\src\randnum.cpp
+	"randnum.h"
+	<ctime>
+	<cstdlib>
+
+1564900024 d:\c++ gui programs code blocks\test\include\randnum.h
+	<iostream>
+
+1564919386 source:d:\c++ gui programs code blocks\test\main.cpp
+	<windows.h>
+	"randnum.h"
+
+1565767967 source:d:\c++ gui programs code blocks\random number generater\vresion 2.0\src\randnum.cpp
+	"randnum.h"
+	<ctime>
+	<cstdlib>
+	<sstream>
+	<string.h>
+
+1565597707 d:\c++ gui programs code blocks\random number generater\vresion 2.0\include\randnum.h
+	<iostream>
+
+1565784244 source:d:\c++ gui programs code blocks\random number generater\vresion 2.0\main.cpp
+	<windows.h>
+	<fstream>
+	<sstream>
+	"randnum.h"
+
+1565784998 source:d:\c++ gui programs code blocks\random number generator\vresion 2.0\main.cpp
+	<windows.h>
+	<fstream>
+	<sstream>
+	"randnum.h"
+
+1565597707 d:\c++ gui programs code blocks\random number generator\vresion 2.0\include\randnum.h
+	<iostream>
+
+1565767967 source:d:\c++ gui programs code blocks\random number generator\vresion 2.0\src\randnum.cpp
+	"randnum.h"
+	<ctime>
+	<cstdlib>
+	<sstream>
+	<string.h>
+
+1567960711 source:d:\c++ gui programs\random number generator\vresion 2.0\main.cpp
+	<windows.h>
+	<fstream>
+	<sstream>
+	"randnum.h"
+
+1565597707 d:\c++ gui programs\random number generator\vresion 2.0\include\randnum.h
+	<iostream>
+
+1565767967 source:d:\c++ gui programs\random number generator\vresion 2.0\src\randnum.cpp
+	"randnum.h"
+	<ctime>
+	<cstdlib>
+	<sstream>
+	<string.h>
+
+1567960866 source:d:\c++ gui programs\random number generator\vresion 2.0\resources.rc
+
