@@ -1,5 +1,5 @@
 # Random-Number-genrator-v2
-Upgraded version of priviously written c++ program.
+Upgraded version of previously written c++ program.
 
 
 ## How to run
